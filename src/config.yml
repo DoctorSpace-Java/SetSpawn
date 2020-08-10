@@ -1,0 +1,11 @@
+#Simple plugin configuration
+messages:
+  gm-changed-to-creative: '&6Gamemode changed to Creative'
+  gm-changed-to-survival: '&6Gamemode changed to Survival'
+  gm-changed-to-adventure: '&6Gamemode changed to Adventure'
+  gm-changed-to-spectator: '&6Gamemode changed to Spectator'
+  fly-enabled: '&6Fly enabled!'
+  fly-disabled: '&6Fly disabled!'
+others:
+  join-message: '&7%player_name% &7[&a+&7]'
+  quit-message: '&7%player_name% &7[&c-&7]'
