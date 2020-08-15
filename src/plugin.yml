@@ -1,0 +1,15 @@
+name: SetSpawn
+author: Axegis
+description: Set and teleport to a spawn
+main: ml.axegis.setspawn.Main
+version: 1.0.0
+
+commands:
+  setspawn:
+    description: Set the spawn
+    usage: /setspawn
+    permission: setspawn.setspawn
+  spawn:
+    description: Teleport to the spawn
+    usage: /spawn
+    permission: setspawn.spawn

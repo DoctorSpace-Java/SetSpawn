@@ -1,0 +1,16 @@
+SetSpawn:
+  Messages:
+    no_permissions: "&cYou do not have permission to use this command"
+    no_console_command: "&cOnly players can execute this command"
+    no_spawn_location: "&cEnsure that you have set spawn"
+    spawn_set: "&aSpawn set"
+    teleporting_spawn: "&6Teleporting to spawn"
+  Permissions:
+    spawn: setspawn.spawn
+    setspawn: setspawn.setspawn
+  Location:
+    X:
+    Y:
+    Z:
+    Yaw:
+    Pitch:
